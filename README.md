@@ -1,4 +1,4 @@
-# insert name, group here
+# Tulbure Stefan Antonel gr 30237
 
 # Resources
 
